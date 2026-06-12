@@ -1,0 +1,109 @@
+Rank,Name,Platform,Year,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,Rating,Global_Sales
+1,Grand Theft Auto V,Wii,2018.0,Adventure,EA,1.47,0.76,0.45,0.22,M,2.9
+2,Call of Duty: Black Ops,Switch,2015.0,Simulation,Bandai Namco,1.05,0.07,0.25,0.16,E10+,1.53
+3,Minecraft,DS,2013.0,Sports,Nintendo,2.91,0.15,0.29,1.21,T,4.56
+4,Red Dead Redemption 2,PS3,2015.0,Adventure,Konami,1.61,0.15,1.17,0.04,T,2.97
+5,FIFA 22,Wii,2017.0,Action,Nintendo,0.27,1.26,0.21,0.15,AO,1.89
+6,The Witcher 3,PSP,,Puzzle,Sega,0.11,1.64,0.36,1.05,,3.16
+7,God of War,PC,2013.0,Puzzle,Microsoft,1.54,1.05,0.77,0.6,,3.96
+8,Spider-Man,Wii,2017.0,Sports,Capcom,0.04,3.93,0.25,0.51,,4.73
+9,Fortnite,DS,2022.0,Simulation,Bandai Namco,1.32,0.56,0.49,0.09,E10+,2.46
+10,Cyberpunk 2077,PS3,2019.0,Strategy,Capcom,4.23,0.4,0.99,0.06,,5.68
+11,Elden Ring,Switch,2019.0,Shooter,Bandai Namco,1.29,2.44,1.49,0.33,,5.55
+12,Halo Infinite,DS,2021.0,Simulation,Activision,0.74,0.3,0.08,0.8,E10+,1.92
+13,FIFA 21,DS,2022.0,Strategy,EA,1.55,3.96,1.31,0.24,,7.06
+14,NBA 2K22,PC,2022.0,Puzzle,Sega,0.92,0.01,0.34,0.25,T,1.52
+15,Assassin's Creed Valhalla,Xbox 360,2015.0,RPG,Konami,1.18,4.2,0.15,0.1,M,5.63
+16,Far Cry 6,PS3,2019.0,Action,None,4.26,0.05,0.31,0.44,E10+,5.06
+17,Watch Dogs Legion,Xbox One,2013.0,Sports,Capcom,0.73,2.66,1.96,0.06,AO,5.41
+18,Resident Evil Village,DS,2016.0,Action,Sega,4.87,0.9,0.34,0.12,,6.23
+19,Deathloop,Xbox 360,2016.0,Racing,Ubisoft,3.54,5.95,0.2,0.17,E10+,9.86
+20,Returnal,Xbox One,2017.0,Racing,Ubisoft,0.33,0.09,0.5,0.21,E,1.13
+21,Demon's Souls,PS3,2019.0,Simulation,Nintendo,0.11,0.97,0.14,0.08,E,1.3
+22,Ratchet & Clank,PS4,2019.0,Puzzle,Konami,0.16,4.18,0.04,0.04,M,4.42
+23,Horizon Forbidden West,PSP,2016.0,Puzzle,Activision,0.03,0.89,0.07,0.28,T,1.27
+24,Ghost of Tsushima,Xbox 360,,Shooter,Capcom,0.15,1.19,0.07,0.1,M,1.51
+25,The Last of Us Part II,3DS,2015.0,Shooter,EA,1.72,1.43,0.08,0.26,M,3.49
+26,Death Stranding,PS4,2018.0,Shooter,EA,0.11,0.73,0.07,0.05,M,0.96
+27,Control,PSP,2014.0,RPG,Capcom,0.58,1.19,0.51,0.2,M,2.48
+28,Sekiro,PC,,Adventure,Microsoft,2.8,1.05,0.1,0.23,AO,4.18
+29,Dark Souls III,Wii,2021.0,Fighting,Activision,0.04,2.78,0.21,0.02,AO,3.05
+30,Bloodborne,Switch,2017.0,Adventure,Sega,2.53,0.06,1.14,0.12,E10+,3.85
+31,Nioh 2,3DS,2018.0,Action,Bandai Namco,0.5,0.4,0.32,0.04,E,1.26
+32,Yakuza Like a Dragon,PC,,Adventure,Microsoft,0.19,3.6,0.55,0.02,M,4.36
+33,Final Fantasy VII Remake,PS3,2022.0,RPG,Bandai Namco,1.79,2.65,0.09,1.38,E10+,5.91
+34,Kingdom Hearts III,PC,2019.0,Action,Bandai Namco,1.49,0.73,0.11,0.12,E,2.45
+35,Dragon Quest XI,Wii,2021.0,Adventure,Microsoft,3.15,1.16,0.02,0.5,,4.83
+36,Monster Hunter World,PS3,2019.0,RPG,Nintendo,1.99,0.39,0.09,0.09,T,2.56
+37,Devil May Cry 5,3DS,2013.0,Fighting,Ubisoft,2.44,0.25,0.16,0.34,AO,3.19
+38,Street Fighter V,Wii,2013.0,Adventure,Bandai Namco,0.5,0.75,0.1,0.43,,1.78
+39,Tekken 7,Xbox One,2021.0,RPG,Microsoft,0.29,0.52,0.05,0.27,E,1.13
+40,Mortal Kombat 11,Switch,2021.0,Shooter,Microsoft,2.08,1.05,0.06,0.19,,3.38
+41,Injustice 2,3DS,2016.0,Puzzle,Sony,2.47,0.1,0.31,0.16,T,3.04
+42,Mario Kart 8 Deluxe,Xbox One,2021.0,Shooter,Nintendo,6.99,4.4,0.12,0.13,E,11.64
+43,Super Smash Bros Ultimate,PSP,2015.0,Puzzle,Konami,0.8,5.14,0.23,0.8,,6.97
+44,Pokemon Sword,3DS,2019.0,Sports,Sony,0.7,1.44,0.35,0.53,AO,3.02
+45,Animal Crossing,PSP,2018.0,Sports,Sony,2.25,0.92,0.59,1.01,AO,4.77
+46,The Legend of Zelda BotW,PS3,2020.0,Sports,Capcom,0.63,0.44,0.02,0.04,E10+,1.13
+47,Super Mario Odyssey,Xbox One,2021.0,Fighting,Ubisoft,4.01,2.02,0.8,0.39,,7.22
+48,Splatoon 2,Switch,,Shooter,Microsoft,2.93,1.39,0.49,0.84,M,5.65
+49,Luigi's Mansion 3,Wii,2013.0,Puzzle,Ubisoft,0.84,0.21,0.04,0.06,,1.15
+50,Fire Emblem Three Houses,DS,2015.0,RPG,Activision,2.08,2.9,1.03,0.02,E,6.03
+51,Xenoblade Chronicles 2,PC,,Action,Capcom,2.11,2.07,1.27,0.41,E,5.86
+52,Overwatch,PS4,2020.0,RPG,Konami,0.16,3.59,0.03,0.26,,4.04
+53,Apex Legends,Switch,2018.0,Action,Ubisoft,3.49,1.55,0.16,0.55,T,5.75
+54,Valorant,Xbox One,2020.0,Racing,EA,1.06,1.14,0.82,0.05,AO,3.07
+55,League of Legends,DS,2021.0,RPG,None,2.63,0.65,0.69,0.48,E,4.45
+56,Dota 2,Switch,2016.0,Adventure,Activision,0.58,3.24,0.1,0.07,AO,3.99
+57,Counter-Strike GO,Xbox One,2013.0,Adventure,Nintendo,3.39,2.41,0.12,0.05,E,5.97
+58,PUBG,Xbox 360,2013.0,Simulation,Konami,0.74,0.06,0.23,0.05,E10+,1.08
+59,Among Us,Xbox 360,2022.0,Shooter,Activision,0.02,0.03,0.33,0.51,M,0.89
+60,Fall Guys,PSP,2016.0,Action,Bandai Namco,3.54,0.57,0.48,0.33,E,4.92
+61,Rocket League,Switch,2019.0,Action,None,0.14,2.0,0.23,0.22,AO,2.59
+62,FIFA 20,Xbox 360,2014.0,Shooter,Bandai Namco,0.58,5.24,0.31,0.13,E10+,6.26
+63,PES 2021,Xbox One,2015.0,Fighting,Sony,4.5,0.2,0.69,0.63,E,6.02
+64,NBA 2K21,PSP,2013.0,Simulation,Bandai Namco,4.51,1.08,0.02,0.15,T,5.76
+65,Madden NFL 22,Xbox One,2017.0,Fighting,Sony,1.28,0.58,0.15,0.51,M,2.52
+66,WWE 2K22,PSP,2013.0,Fighting,Capcom,1.5,4.2,0.62,0.17,E,6.49
+67,F1 2021,Switch,2020.0,Fighting,Sega,0.89,2.22,1.13,0.14,E10+,4.38
+68,Gran Turismo 7,DS,2013.0,Shooter,Sony,0.52,2.19,0.36,0.19,T,3.26
+69,Forza Horizon 5,Wii,2013.0,Fighting,Nintendo,0.6,0.76,0.38,0.11,,1.85
+70,Need for Speed Heat,3DS,2014.0,Adventure,Bandai Namco,1.67,0.64,0.06,0.41,E10+,2.78
+71,The Crew 2,DS,2014.0,Sports,Bandai Namco,2.09,0.38,0.3,0.21,E10+,2.98
+72,Dirt 5,PS3,2018.0,Racing,None,2.35,0.07,0.38,0.08,T,2.88
+73,WRC 10,Xbox One,2019.0,Action,EA,2.34,2.4,0.14,0.69,E10+,5.57
+74,Borderlands 3,PS3,2017.0,Action,Microsoft,0.14,2.01,0.16,0.15,T,2.46
+75,Tiny Tina's Wonderlands,DS,,Racing,Sega,1.02,9.81,0.24,0.24,E,11.31
+76,Outriders,PSP,2013.0,Shooter,Konami,0.09,6.83,0.01,0.71,T,7.64
+77,Back 4 Blood,3DS,2015.0,RPG,Sony,1.2,0.97,0.19,0.29,T,2.65
+78,Left 4 Dead 2,3DS,2014.0,Shooter,Nintendo,0.87,1.76,0.12,0.04,M,2.79
+79,Days Gone,PS4,2017.0,Action,Capcom,3.28,3.48,0.2,0.84,T,7.8
+80,Detroit Become Human,3DS,2022.0,Action,Sony,0.65,2.27,0.06,0.3,T,3.28
+81,Heavy Rain,Wii,2018.0,Racing,Microsoft,0.19,0.34,1.11,0.12,,1.76
+82,Beyond Two Souls,3DS,2019.0,Fighting,Capcom,0.23,0.72,0.45,0.04,E,1.44
+83,Quantic Dream,DS,2016.0,Shooter,Activision,2.15,0.17,0.57,0.47,M,3.36
+84,Prey,PS4,2019.0,Puzzle,Bandai Namco,1.44,3.7,0.78,0.29,,6.21
+85,Dishonored 2,DS,2020.0,Racing,Activision,0.16,1.12,0.35,0.23,AO,1.86
+86,Wolfenstein II,DS,,Adventure,Sony,0.13,0.31,0.05,0.67,E,1.16
+87,DOOM Eternal,PC,2018.0,Action,Microsoft,1.81,1.34,0.39,0.47,E,4.01
+88,Quake Champions,PS4,2020.0,Racing,Sega,0.11,1.16,0.44,0.05,AO,1.76
+89,Crash Bandicoot 4,DS,2017.0,Shooter,None,2.59,0.53,0.68,0.11,T,3.91
+90,Spyro Reignited,PC,2016.0,Action,Nintendo,1.84,0.14,0.28,0.09,,2.35
+91,Medievil,PC,2014.0,RPG,None,0.13,1.34,0.07,0.41,E10+,1.95
+92,Shadow of the Colossus,PS4,2018.0,Racing,Sony,0.13,0.88,0.17,0.01,M,1.19
+93,Ico,PS3,2018.0,Simulation,Bandai Namco,6.47,1.78,0.23,0.25,,8.73
+94,Persona 5 Royal,PSP,2013.0,Action,Bandai Namco,0.7,0.88,0.52,0.43,AO,2.53
+95,Shin Megami Tensei V,Wii,,Shooter,Sony,0.69,2.29,0.42,0.63,E,4.03
+96,Tales of Arise,PSP,2018.0,Sports,Capcom,2.51,0.96,0.22,0.13,E,3.82
+97,Star Ocean 6,3DS,2015.0,Puzzle,Ubisoft,4.41,0.99,2.15,0.52,M,8.07
+98,Bravely Default II,Wii,2016.0,Strategy,Nintendo,6.4,2.51,0.47,0.04,E,9.42
+99,Ori and the Will of Wisps,3DS,2016.0,Fighting,Sony,2.1,0.62,0.14,0.56,E,3.42
+100,Hollow Knight,DS,2015.0,Strategy,Capcom,0.71,0.17,0.05,0.04,M,0.97
+101,Celeste,Xbox One,2022.0,Shooter,Bandai Namco,0.13,0.04,0.08,0.15,,0.4
+102,Shovel Knight,PS4,2015.0,Adventure,Bandai Namco,2.25,1.69,0.14,0.48,,4.56
+103,Cuphead,Wii,2015.0,Adventure,Microsoft,1.23,1.16,0.09,0.05,M,2.53
+104,Stardew Valley,Wii,2016.0,Sports,Sony,0.83,1.46,0.1,0.08,AO,2.47
+105,My Time at Portia,DS,2019.0,Fighting,Ubisoft,3.55,0.29,0.17,0.38,E,4.39
+106,Farming Simulator 22,PS3,2016.0,Simulation,EA,0.18,0.18,0.1,0.38,E,0.84
+107,Planet Zoo,PC,,Sports,Ubisoft,1.02,0.02,1.14,0.31,AO,2.49
+108,Cities Skylines,DS,2013.0,Strategy,Bandai Namco,0.02,0.52,0.04,0.36,,0.94
